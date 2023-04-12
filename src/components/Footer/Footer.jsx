@@ -7,7 +7,6 @@ const Footer = () => {
     return (
         <div>
             <div className='p-8 md:px-16 bg-black py-10 text-white mt-24'>
-                {/* Logos and Links */}
                 <div className='grid grid-cols-1 md:grid-cols-5 gap-5 items-center'>
                     <div>
                         <div>

@@ -1,5 +1,4 @@
 import React from 'react';
-import './HeadCover.css';
 import ProfessionalImg from '../../assets/images/professional.png';
 
 const HeadCover = () => {
