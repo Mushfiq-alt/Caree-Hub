@@ -50,8 +50,8 @@ const Footer = () => {
                     <div>
                         <ul>
                             <li className='font-bold'>Contact</li>
-                            <li>Jamalpur, Mymensingh</li>
-                            <li>+880 1611765966</li>
+                            <li>California, USA</li>
+                            <li>+91 0054363852</li>
                         </ul>
                     </div>
                 </div>
@@ -59,10 +59,10 @@ const Footer = () => {
                 <hr />
                 <div className='flex justify-between py-8'>
                     <div>
-                        &copy;{year} Talent Match, All Rights Reserved
+                        &copy;{year} Tech Job, All Rights Reserved
                     </div>
                     <div>
-                        Powered by Talent Match ❤
+                        Powered by Tech Job 
                     </div>
                 </div>
             </div>
