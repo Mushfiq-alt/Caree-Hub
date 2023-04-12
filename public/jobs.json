@@ -1,0 +1,124 @@
+[
+    {
+      "id": "609de80f498a8029b9ac663d",
+      "title": "Database Engineer",
+      "company": "Google LLC.",
+      "type": {
+        "remote": "Onsite",
+        "onsite": "Onsite",
+        "fullTime": "Full-time"
+      },
+      "location": "Seattle",
+      "salary": "100-150k Per Month",
+      "phone": "(123) 456-7890",
+      "email": "john.doe@abcinc.com",
+      "description": "A database engineer is responsible for the design, implementation, and maintenance of a company's database systems. This includes managing the performance, security, and availability of the databases, as well as ensuring that data is stored and accessed efficiently.",
+      "responsibility": "Designing and implementing database solutions: A database engineer is responsible for designing, implementing, and maintaining database systems. They must be able to create logical and physical database designs that meet the requirements of the business. Ensuring data security: Data security is a critical aspect of database engineering. A database engineer must ensure that the data is secure and protected from unauthorized access, theft, or loss. They must implement security protocols, access controls, and other measures to protect data privacy. Performance tuning and optimization: A database engineer is responsible for optimizing the performance of the database systems. They must monitor and identify performance bottlenecks and implement tuning strategies to improve database performance. Data backup and recovery: A database engineer must ensure that the data is backed up regularly and that there is a disaster recovery plan in place to recover data in the event of a system failure or disaster. Database maintenance: A database engineer is responsible for maintaining the database systems. This includes applying patches and updates, performing database backups, and managing user accounts. Database documentation: A database engineer must create and maintain documentation for the database systems. This includes documentation of the database schema, security protocols, backup and recovery procedures, and other relevant information. Collaboration with other IT teams: A database engineer must collaborate with other IT teams, such as software developers and system administrators, to ensure that the database systems are integrated with other IT systems and applications.",
+      "requirement": "Requirement 1, Requirement 2, Requirement 3",
+      "experience": "0-2 Years",
+      "education": "Bachelor's degree in Computer Science",
+      "image": "../src/assets/Logo/google-1-1 1.png"
+    },
+    {
+      "id": "60a91a53498a8029b9ac6e49",
+      "title": "Back-End Engineer",
+      "company": "Tesla",
+      "type": {
+        "remote": "Remote",
+        "onsite": "Onsite",
+        "fullTime": "Full-time"
+      },
+      "location": "Dublin, Ireland",
+      "salary": "150-200k Per Month",
+      "phone": "(533) 456-7890",
+      "email": "amber@xyzcorp.com",
+      "description": " Back-end engineer is responsible for developing and maintaining the server-side of web applications, designing and implementing APIs, managing database systems, optimizing application performance, and collaborating with front-end developers to integrate the back-end and front-end components of web applications. They also ensure that the back-end infrastructure is scalable, reliable, and secure, and may work with DevOps teams to automate deployment and testing processes. Additionally, back-end engineers may be involved in developing and implementing new features and functionality, troubleshooting and resolving bugs and performance issues, and staying up-to-date with emerging technologies and industry trends.",
+      "responsibility": "Developing and maintaining server-side web applications: Back-end engineers are responsible for designing, building, and maintaining the server-side of web applications using programming languages such as Python, Java, or Node.js. Designing and implementing APIs: Back-end engineers must design and implement APIs that allow the front-end of the application to communicate with the back-end. Managing database systems: Back-end engineers are responsible for managing database systems, ensuring that data is stored and accessed efficiently, and implementing security protocols to protect data privacy. Optimizing application performance: Back-end engineers must optimize application performance by identifying and resolving bottlenecks, implementing caching strategies, and optimizing database queries. Collaborating with front-end developers: Back-end engineers must collaborate with front-end developers to ensure that the front-end and back-end components of web applications are integrated and functioning correctly. Ensuring scalability and reliability: Back-end engineers must design and implement back-end infrastructure that is scalable and reliable, ensuring that the application can handle increased traffic and usage. Securing the back-end infrastructure: Back-end engineers must implement security protocols to protect the back-end infrastructure from unauthorized access, theft, or loss. Developing and implementing new features and functionality: Back-end engineers may be involved in developing and implementing new features and functionality for web applications, working closely with product managers and other stakeholders to ensure that the features meet the needs of the business. Troubleshooting and resolving bugs and performance issues: Back-end engineers must troubleshoot and resolve bugs and performance issues in the back-end infrastructure, ensuring that the application is functioning correctly. Staying up-to-date with emerging technologies and industry trends: Back-end engineers must stay up-to-date with emerging technologies and industry trends, ensuring that the back-end infrastructure is using the latest and most effective technologies.",
+      "requirement": "Requirement 1, Requirement 2, Requirement 3",
+      "experience": "1-2 Years",
+      "education": "Master's degree in Computer Science",
+      "image": "../src/assets/Logo/tesla-9 1.png"
+    },
+    {
+      "id":"5fb6a5a6b5ee6e375aa2a5e6",
+      "title": "Senior Product Manager",
+      "company": "Netflix",
+      "type": {
+        "remote": "Remote",
+        "onsite": "Onsite",
+        "fullTime": "Full-time"
+      },
+      "location": "New York",
+      "salary": "200-250k Per Month",
+      "phone": "(323) 456-7890",
+      "email": "ryhuth@123llc.com",
+      "description": " senior-level position responsible for overseeing the entire lifecycle of a product or product line. They work closely with cross-functional teams, including engineering, design, marketing, sales, and customer support, to ensure the product meets business objectives and customer needs.",
+      "responsibility": "Developing product strategy: The Senior Product Manager is responsible for developing a product strategy that aligns with the overall business objectives and market trends. Conducting market research: The Senior Product Manager conducts market research to gather insights about customer needs, competitor products, and market trends. Defining product requirements: The Senior Product Manager defines product requirements based on market research and customer feedback, working closely with cross-functional teams to ensure that the requirements are achievable and align with business objectives. Prioritizing features: The Senior Product Manager prioritizes product features based on business objectives, customer needs, and technical feasibility. Managing the product roadmap: The Senior Product Manager manages the product roadmap, ensuring that it aligns with the product strategy, business objectives, and market trends. Collaborating with cross-functional teams: The Senior Product Manager collaborates with cross-functional teams, including engineering, design, marketing, sales, and customer support, to ensure that the product meets business objectives and customer needs. Leading product launches: The Senior Product Manager leads product launches, working closely with cross-functional teams to ensure that the product launch is successful. Analyzing product performance: The Senior Product Manager analyzes product performance using metrics such as revenue, user engagement, and customer feedback, and uses this information to make data-driven decisions about product improvements. Managing product lifecycle: The Senior Product Manager manages the entire lifecycle of a product, from ideation to retirement. Mentoring junior product managers: The Senior Product Manager mentors junior product managers, providing guidance and support in product management best practices.",
+      "requirement": "Requirement 1, Requirement 2, Requirement 3",
+      "experience": "5-7 Years",
+      "education": "Bachelor's degree in Computer Science or equivalent or relavnt work experience",
+      "image": "../src/assets/Logo/netflix-4 1.png"
+    },
+    {
+      "id": "60712a0df0a68b01cf04e012",
+      "title": "Front-End Egnineer",
+      "company": "Google LLC.",
+      "type": {
+        "remote": "OnSite",
+        "onsite": "Onsite",
+        "fullTime": "Full-time"
+      },
+      "location": "Sydney",
+      "salary": "120-200k Per Month",
+      "phone": "(123) 456-7890",
+      "email": "joe.smith@123llc.com",
+      "description": "developing and maintaining the client-side of web applications, designing and implementing user interfaces, optimizing application performance, and collaborating with back-end developers to integrate the front-end and back-end components of web applications. They ensure that the front-end infrastructure is scalable, reliable, and user-friendly, and may work with designers to implement responsive design and accessibility standards. Additionally, front-end engineers may be involved in developing and implementing new features and functionality, troubleshooting and resolving bugs and performance issues, and staying up-to-date with emerging technologies and industry trends.",
+      "responsibility": "Developing and maintaining client-side web applications: Front-End Engineers are responsible for building and maintaining the client-side of web applications using HTML, CSS, and JavaScript. Designing and implementing user interfaces: Front-End Engineers must design and implement user interfaces that are intuitive, user-friendly, and visually appealing. Optimizing application performance: Front-End Engineers must optimize application performance by identifying and resolving performance issues, implementing caching strategies, and optimizing page load times. Collaborating with back-end developers: Front-End Engineers must collaborate with back-end developers to ensure that the front-end and back-end components of web applications are integrated and functioning correctly. Ensuring scalability and reliability: Front-End Engineers must design and implement front-end infrastructure that is scalable and reliable, ensuring that the application can handle increased traffic and usage. Implementing responsive design and accessibility standards: Front-End Engineers must implement responsive design and accessibility standards, ensuring that the application is accessible to users on a variety of devices and platforms. Developing and implementing new features and functionality: Front-End Engineers may be involved in developing and implementing new features and functionality for web applications, working closely with product managers and other stakeholders to ensure that the features meet the needs of the business. Troubleshooting and resolving bugs and performance issues: Front-End Engineers must troubleshoot and resolve bugs and performance issues in the front-end infrastructure, ensuring that the application is functioning correctly. Staying up-to-date with emerging technologies and industry trends: Front-End Engineers must stay up-to-date with emerging technologies and industry trends, ensuring that the front-end infrastructure is using the latest and most effective technologies.",
+      "requirement": "Requirement 1, Requirement 2, Requirement 3",
+      "experience": "0-1 Years",
+      "education": "Relative Work Experinece or Internship Experience",
+      "image": "../src/assets/Logo/google-1-1 1-1.png"
+    },
+    {
+      "id": "5d873f836c534e91a8d7fa3e",
+      "title": "Scala Developer",
+      "company": "Meta",
+      "type": {
+        "remote": "Onsite",
+        "onsite": "Onsite",
+        "fullTime": "Full-time"
+      },
+      "location": "California",
+      "salary": "200-300k Per Month",
+      "phone": "(123) 456-7890",
+      "email": "smith@123llc.com",
+      "description": "Specializes in developing and maintaining applications using the Scala programming language. They typically work in a team with other software engineers and collaborate with stakeholders, such as product managers and designers, to build and improve software solutions.",
+      "responsibility": "Developing and maintaining software applications using the Scala programming language: Scala Developers are responsible for designing, developing, testing, and maintaining software applications using the Scala programming language.Collaborating with stakeholders: Scala Developers collaborate with stakeholders such as product managers and designers to understand the requirements and objectives of the application and ensure that the software meets those needs. Designing and implementing software architecture: Scala Developers design and implement software architecture, ensuring that the application is scalable, reliable, and maintainable. Writing and maintaining code: Scala Developers write and maintain code for software applications, ensuring that the code is efficient, optimized, and adheres to best practices. Debugging and troubleshooting: Scala Developers debug and troubleshoot software applications to identify and resolve issues, ensuring that the application is functioning correctly. Testing and deploying: Scala Developers test software applications to ensure that they are functioning correctly and deploy the applications to production environments. Collaborating with other software engineers: Scala Developers collaborate with other software engineers on the team to ensure that the software architecture is consistent and that the code is maintainable and scalable. Staying up-to-date with emerging technologies: Scala Developers stay up-to-date with emerging technologies and industry trends to ensure that the software applications they develop are using the latest and most effective technologies.",
+      "requirement": "Requirement 1, Requirement 2, Requirement 3",
+      "experience": "5-7 Years",
+      "education": "Bachelor's degree in Computer Science or Relative work Experience",
+      "image": "../src/assets/Logo/facebook.png"
+    },
+    {
+      "id": "60b3f900498a8029b9ac8495",
+      "title": "Senior UX Researcher",
+      "company": "Tesla",
+      "type": {
+        "remote": "Remote",
+        "onsite": "Onsite",
+        "fullTime": "Full-time"
+      },
+      "location": "perth",
+      "salary": "220-320k Per Month",
+      "phone": "(123) 456-7890",
+      "email": "sm.munna@123llc.com",
+      "description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "requirement": "Requirement 1, Requirement 2, Requirement 3",
+      "experience": "5-7 Years",
+      "education": "Bachelor's degree in Computer Science or Bacheor in Fine Arts or equivalent or Relative Work Expericne",
+      "image": "../src/assets/Logo/tesla-9 1.png"
+    }
+
+
+]
