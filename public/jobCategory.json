@@ -3,28 +3,28 @@
         "id": "6f41c6a1-4b31-4f6f-a321-4f9b487d4de8",
         "jobCategoryName": "Development",
         "totalJobAvailable": "330+",
-        "imageLink": "../src/assets/Icons/chip 1.png"
+        "imageLink": "https://raw.githubusercontent.com/Porgramming-Hero-web-course/b7a9-career-hub-Mushfiq-alt/main/src/assets/Icons/chip%201.png?token=GHSAT0AAAAAABYTKWOHS2VTPBMEOHJXC2TSZBWTFVQ"
       },
       
       {
         "id": "a31ebd61-19a7-4b1c-9867-77b5d0b482dc",
         "jobCategoryName": "Sales & Marketing",
         "totalJobAvailable": "120+",
-        "imageLink": "../src/assets/Icons/accounts 1.png"
+        "imageLink": "https://raw.githubusercontent.com/Porgramming-Hero-web-course/b7a9-career-hub-Mushfiq-alt/main/src/assets/Icons/accounts%201.png?token=GHSAT0AAAAAABYTKWOGSAB6TMVMFRB5VZL4ZBWTFGQ"
       },
       
       {
         "id": "d8c6517a-ccf9-4640-b53f-c1a08a2622e5",
         "jobCategoryName": "HR and Finance",
         "totalJobAvailable": "324+",
-        "imageLink": "../src/assets/Icons/business 1.png"
+        "imageLink": "https://raw.githubusercontent.com/Porgramming-Hero-web-course/b7a9-career-hub-Mushfiq-alt/main/src/assets/Icons/business%201.png?token=GHSAT0AAAAAABYTKWOH6HZQQTY2NYVLZCHUZBWTEIQ"
       },
       
       {
         "id": "2a2aefbe-12a7-41fb-bb5f-b65b1c44f3d3",
         "jobCategoryName": "UI/UX",
         "totalJobAvailable": "89+",
-        "imageLink": "../src/assets/Icons/social-media 1.png"
+        "imageLink": "https://raw.githubusercontent.com/Porgramming-Hero-web-course/b7a9-career-hub-Mushfiq-alt/main/src/assets/Icons/social-media%201.png?token=GHSAT0AAAAAABYTKWOHXW6OYP4DQLZGU5EAZBWTD2A"
       }
       
 ]

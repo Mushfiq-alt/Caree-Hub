@@ -17,7 +17,7 @@
       "requirement": "Requirement 1, Requirement 2, Requirement 3",
       "experience": "0-2 Years",
       "education": "Bachelor's degree in Computer Science",
-      "image": "../src/assets/Logo/google-1-1 1.png"
+      "image": "https://raw.githubusercontent.com/Porgramming-Hero-web-course/b7a9-career-hub-Mushfiq-alt/main/src/assets/images/google-1-1%201.png?token=GHSAT0AAAAAABYTKWOHJVSIWW6KZB5WULEYZBWSZQA"
     },
     {
       "id": "60a91a53498a8029b9ac6e49",
@@ -37,7 +37,7 @@
       "requirement": "Requirement 1, Requirement 2, Requirement 3",
       "experience": "1-2 Years",
       "education": "Master's degree in Computer Science",
-      "image": "../src/assets/Logo/tesla-9 1.png"
+      "image": "https://raw.githubusercontent.com/Porgramming-Hero-web-course/b7a9-career-hub-Mushfiq-alt/main/src/assets/images/tesla-9%201.png?token=GHSAT0AAAAAABYTKWOHQBTBPGEGNAGUCTCCZBWS5VA"
     },
     {
       "id":"5fb6a5a6b5ee6e375aa2a5e6",
@@ -56,12 +56,12 @@
       "responsibility": "Developing product strategy: The Senior Product Manager is responsible for developing a product strategy that aligns with the overall business objectives and market trends. Conducting market research: The Senior Product Manager conducts market research to gather insights about customer needs, competitor products, and market trends. Defining product requirements: The Senior Product Manager defines product requirements based on market research and customer feedback, working closely with cross-functional teams to ensure that the requirements are achievable and align with business objectives. Prioritizing features: The Senior Product Manager prioritizes product features based on business objectives, customer needs, and technical feasibility. Managing the product roadmap: The Senior Product Manager manages the product roadmap, ensuring that it aligns with the product strategy, business objectives, and market trends. Collaborating with cross-functional teams: The Senior Product Manager collaborates with cross-functional teams, including engineering, design, marketing, sales, and customer support, to ensure that the product meets business objectives and customer needs. Leading product launches: The Senior Product Manager leads product launches, working closely with cross-functional teams to ensure that the product launch is successful. Analyzing product performance: The Senior Product Manager analyzes product performance using metrics such as revenue, user engagement, and customer feedback, and uses this information to make data-driven decisions about product improvements. Managing product lifecycle: The Senior Product Manager manages the entire lifecycle of a product, from ideation to retirement. Mentoring junior product managers: The Senior Product Manager mentors junior product managers, providing guidance and support in product management best practices.",
       "requirement": "Requirement 1, Requirement 2, Requirement 3",
       "experience": "5-7 Years",
-      "education": "Bachelor's degree in Computer Science or equivalent or relavnt work experience",
-      "image": "../src/assets/Logo/netflix-4 1.png"
+      "education": "Bachelor's degree in Computer Science or equivalent or relevant work experience",
+      "image": "https://raw.githubusercontent.com/Porgramming-Hero-web-course/b7a9-career-hub-Mushfiq-alt/main/src/assets/images/netflix-4%201.png?token=GHSAT0AAAAAABYTKWOGME7VR5O7ZHJTZQ6OZBWS4MQ"
     },
     {
       "id": "60712a0df0a68b01cf04e012",
-      "title": "Front-End Egnineer",
+      "title": "Front-End Engineer",
       "company": "Google LLC.",
       "type": {
         "remote": "OnSite",
@@ -76,8 +76,8 @@
       "responsibility": "Developing and maintaining client-side web applications: Front-End Engineers are responsible for building and maintaining the client-side of web applications using HTML, CSS, and JavaScript. Designing and implementing user interfaces: Front-End Engineers must design and implement user interfaces that are intuitive, user-friendly, and visually appealing. Optimizing application performance: Front-End Engineers must optimize application performance by identifying and resolving performance issues, implementing caching strategies, and optimizing page load times. Collaborating with back-end developers: Front-End Engineers must collaborate with back-end developers to ensure that the front-end and back-end components of web applications are integrated and functioning correctly. Ensuring scalability and reliability: Front-End Engineers must design and implement front-end infrastructure that is scalable and reliable, ensuring that the application can handle increased traffic and usage. Implementing responsive design and accessibility standards: Front-End Engineers must implement responsive design and accessibility standards, ensuring that the application is accessible to users on a variety of devices and platforms. Developing and implementing new features and functionality: Front-End Engineers may be involved in developing and implementing new features and functionality for web applications, working closely with product managers and other stakeholders to ensure that the features meet the needs of the business. Troubleshooting and resolving bugs and performance issues: Front-End Engineers must troubleshoot and resolve bugs and performance issues in the front-end infrastructure, ensuring that the application is functioning correctly. Staying up-to-date with emerging technologies and industry trends: Front-End Engineers must stay up-to-date with emerging technologies and industry trends, ensuring that the front-end infrastructure is using the latest and most effective technologies.",
       "requirement": "Requirement 1, Requirement 2, Requirement 3",
       "experience": "0-1 Years",
-      "education": "Relative Work Experinece or Internship Experience",
-      "image": "../src/assets/Logo/google-1-1 1-1.png"
+      "education": "Relative Work experience or Internship Experience",
+      "image": "https://raw.githubusercontent.com/Porgramming-Hero-web-course/b7a9-career-hub-Mushfiq-alt/main/src/assets/images/google-1-1%201.png?token=GHSAT0AAAAAABYTKWOHJVSIWW6KZB5WULEYZBWSZQA"
     },
     {
       "id": "5d873f836c534e91a8d7fa3e",
@@ -97,7 +97,7 @@
       "requirement": "Requirement 1, Requirement 2, Requirement 3",
       "experience": "5-7 Years",
       "education": "Bachelor's degree in Computer Science or Relative work Experience",
-      "image": "../src/assets/Logo/facebook.png"
+      "image": "https://raw.githubusercontent.com/Porgramming-Hero-web-course/b7a9-career-hub-Mushfiq-alt/main/src/assets/Logo/facebook.png?token=GHSAT0AAAAAABYTKWOG2XXYNB65MOHWCOTUZBWTAAQ"
     },
     {
       "id": "60b3f900498a8029b9ac8495",
@@ -116,8 +116,8 @@
       "responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
       "requirement": "Requirement 1, Requirement 2, Requirement 3",
       "experience": "5-7 Years",
-      "education": "Bachelor's degree in Computer Science or Bacheor in Fine Arts or equivalent or Relative Work Expericne",
-      "image": "../src/assets/Logo/tesla-9 1.png"
+      "education": "Bachelor's degree in Computer Science or Bachelor in Fine Arts or equivalent or Relative Work Experience",
+      "image": "https://raw.githubusercontent.com/Porgramming-Hero-web-course/b7a9-career-hub-Mushfiq-alt/main/src/assets/images/tesla-9%201.png?token=GHSAT0AAAAAABYTKWOHQBTBPGEGNAGUCTCCZBWS5VA"
     }
 
 
